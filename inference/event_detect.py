@@ -7,7 +7,7 @@ from collections import deque
 
 # ---------------- CONFIG ----------------
 MODEL_PATH = "runs/results/runs/detect/train/weights/best.pt"
-VIDEO_PATH = "5.mp4"
+VIDEO_PATH = "VIDEO_PATH"
 EVIDENCE_DIR = "evidence"
 
 DISTANCE_THRESHOLD = 500
