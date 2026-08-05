@@ -3,6 +3,7 @@
 An intelligent computer vision system that automatically detects illegal waste dumping events from CCTV or recorded video using YOLOv8 and ByteTrack. The system identifies dumping events, captures evidence, sends email alerts, and provides a web dashboard for monitoring detected incidents.
 
 📌 Features
+
 🎥 Real-time detection from CCTV, webcam, or MP4 videos
 
 🧠 YOLOv8-based object detection
