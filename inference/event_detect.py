@@ -6,7 +6,7 @@ import math
 from collections import deque
 
 # ---------------- CONFIG ----------------
-MODEL_PATH = "runs/results/runs/detect/train/weights/best.pt"
+MODEL_PATH = "runs/detect/train4/weights/best.pt"
 VIDEO_PATH = "VIDEO_PATH"
 EVIDENCE_DIR = "evidence"
 
